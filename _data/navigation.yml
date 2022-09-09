@@ -9,8 +9,8 @@ main:
   - title: "News"
     url: /year-archive/
 
-  - title: "People"
-    url: /people/
+  - title: "Members"
+    url: /members/
     
   - title: "About"
     url: /markdown/
