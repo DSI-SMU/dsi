@@ -190,6 +190,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,6 +258,15 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      comment: false
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: false
+      share: true
       comment: false
 
 # Sass/SCSS
