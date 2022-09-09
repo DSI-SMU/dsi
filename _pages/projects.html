@@ -2,9 +2,12 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 
-{% for project in site.projects reversed %}
-  {% include archive-single-project.html %}
+{% include base_path %}
+
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
 {% endfor %}
