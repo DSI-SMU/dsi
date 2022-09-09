@@ -190,7 +190,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  members:
+  people:
     output: true
     permalink: /:collection/:path/
 
@@ -259,10 +259,10 @@ defaults:
       author_profile: false
       share: false
       comment: false
-  # _members
+  # _people
   - scope:
       path: ""
-      type: members
+      type: people
     values:
       layout: single
       author_profile: true
