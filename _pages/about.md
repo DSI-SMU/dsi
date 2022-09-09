@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to our DSI Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Welcome to our DSI Lab
-======
 The Data Science Infrastructure Lab (DSILab), led by Professor Jia Zhang in the Department of Computer Science at Southern Methodist University, is engaged in research in the intersection of Data Science, Machine Learning, Cloud Computing, and Software Engineering.
 
 Our research interests emphasize the application of machine learning and information retrieval methods to tackle data science infrastructure problems, with a recent focus on scientific workflows, provenance mining, software discovery, knowledge graph, and interdisciplinary applications of all of these interests in the area of Earth science.
