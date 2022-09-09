@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Data Science Infrastructure: Supporting Collaborative Big Data Analytics on the Internet"
-excerpt: "See more details here: <br/><img src='/images/500x300.png'>"
+excerpt: "See more details here: <img src='/images/500x300.png'>"
 collection: projects
 ---
 
