@@ -1,9 +1,8 @@
 ---
 title: "Xihao Xie"
-excerpt: "Ph.D. Student"
+excerpt: "Current Ph.D. student"
 collection: members
 ---
-
 
 Homepage: [Here](https://mclovinxie.github.io)
 Email: xihaox \[at\] smu \[dot\] edu
