@@ -10,7 +10,7 @@ main:
     url: /year-archive/
 
   - title: "People"
-    url: /cv/
+    url: /people/
     
   - title: "About"
     url: /markdown/
